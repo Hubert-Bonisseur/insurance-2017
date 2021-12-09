@@ -1,5 +1,7 @@
 # insurance-2017
 
-auto insurance 2017 kaggle challenge.
+auto insurance 2017 Kaggle challenge.
+
 Code is in insurance.ipnyb
-Sumbmission is submission.csv
+
+Submission is submission.csv
